@@ -4,5 +4,5 @@
 
 Eksempel formatering:
 
-1.*kursiv* tekst
-2. **fed** tekst
+1.*italics* text
+2. **bold** text
