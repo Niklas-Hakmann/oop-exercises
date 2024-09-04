@@ -4,5 +4,10 @@
 
 Eksempel formatering:
 
+<<<<<<< HEAD
 1.*Kursiv* fremhæving
 2. **Fed** fremhævning
+=======
+1.*italics* text
+2. **bold** text
+>>>>>>> e89fca4110e15975e455cf46eef9cfbec588d338
