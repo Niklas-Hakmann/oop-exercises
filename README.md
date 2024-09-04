@@ -4,5 +4,5 @@
 
 Eksempel formatering:
 
-1.*Kursiv* fremhævning
+1.*Kursiv* fremhæving
 2. **Fed** fremhævning
