@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.sourcelink.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\bin\Debug\net8.0\cpr_register.exe
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\bin\Debug\net8.0\cpr_register.deps.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\bin\Debug\net8.0\cpr_register.runtimeconfig.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\bin\Debug\net8.0\cpr_register.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\bin\Debug\net8.0\cpr_register.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\refint\cpr_register.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\cpr_register.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\cpr_register\obj\Debug\net8.0\ref\cpr_register.dll
