@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.sourcelink.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\bin\Debug\net8.0\mængder.exe
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\bin\Debug\net8.0\mængder.deps.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\bin\Debug\net8.0\mængder.runtimeconfig.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\bin\Debug\net8.0\mængder.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\bin\Debug\net8.0\mængder.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\refint\mængder.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\mængder.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\mængder\obj\Debug\net8.0\ref\mængder.dll

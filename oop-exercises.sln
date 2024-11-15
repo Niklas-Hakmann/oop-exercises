@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array", "array\array.csproj", "{F555991A-BEFF-4706-8EBC-14C0F9DDFAFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cpr_register", "cpr_register\cpr_register.csproj", "{BDA3FF14-8596-48AF-B749-616D2F0694F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mængder", "mængder\mængder.csproj", "{94FED495-68C2-481D-B1FC-CD7B4D6ACE76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F555991A-BEFF-4706-8EBC-14C0F9DDFAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F555991A-BEFF-4706-8EBC-14C0F9DDFAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F555991A-BEFF-4706-8EBC-14C0F9DDFAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F555991A-BEFF-4706-8EBC-14C0F9DDFAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA3FF14-8596-48AF-B749-616D2F0694F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA3FF14-8596-48AF-B749-616D2F0694F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA3FF14-8596-48AF-B749-616D2F0694F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA3FF14-8596-48AF-B749-616D2F0694F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FED495-68C2-481D-B1FC-CD7B4D6ACE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FED495-68C2-481D-B1FC-CD7B4D6ACE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FED495-68C2-481D-B1FC-CD7B4D6ACE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FED495-68C2-481D-B1FC-CD7B4D6ACE76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDBBBFD-2609-489A-A7DA-5CAEA6EB623C}
+	EndGlobalSection
+EndGlobal

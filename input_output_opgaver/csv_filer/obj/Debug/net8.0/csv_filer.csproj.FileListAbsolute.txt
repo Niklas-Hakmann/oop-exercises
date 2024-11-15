@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.sourcelink.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\bin\Debug\net8.0\csv_filer.exe
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\bin\Debug\net8.0\csv_filer.deps.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\bin\Debug\net8.0\csv_filer.runtimeconfig.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\bin\Debug\net8.0\csv_filer.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\bin\Debug\net8.0\csv_filer.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\refint\csv_filer.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\csv_filer.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\csv_filer\obj\Debug\net8.0\ref\csv_filer.dll

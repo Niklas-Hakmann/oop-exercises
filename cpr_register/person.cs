@@ -24,7 +24,7 @@ public class Person
     }
     public override string ToString()
     {
-        return $"Name of person is: {GetName()}, age of person is: {GetAge()}, cpr of person is: {GetCpr()}";
+        return $"Name of Person is: {GetName()}, age of Person is: {GetAge()}, cpr of Person is: {GetCpr()}";
     }
 
 }

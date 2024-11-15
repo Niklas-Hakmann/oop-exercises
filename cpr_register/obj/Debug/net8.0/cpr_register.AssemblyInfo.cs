@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cpr_register")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9d86d220886093f6bdf63172168e07f1b4db651")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f26c7eba4819cd3b3284b4cbf38f4a1e15b192aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("cpr_register")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cpr_register")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

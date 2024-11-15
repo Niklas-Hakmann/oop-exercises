@@ -1,0 +1,15 @@
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.AssemblyInfoInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.AssemblyInfo.cs
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.csproj.CoreCompileInputs.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.sourcelink.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\bin\Debug\net8.0\kommando_linje.exe
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\bin\Debug\net8.0\kommando_linje.deps.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\bin\Debug\net8.0\kommando_linje.runtimeconfig.json
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\bin\Debug\net8.0\kommando_linje.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\bin\Debug\net8.0\kommando_linje.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\refint\kommando_linje.dll
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.pdb
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\kommando_linje.genruntimeconfig.cache
+C:\Users\nikla\OneDrive\Dokumenter\GitHub\oop-exercises\input_output_opgaver\kommando_linje\obj\Debug\net8.0\ref\kommando_linje.dll
